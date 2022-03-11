@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsapectionAPI", "InsapectionAPI\InsapectionAPI.csproj", "{DC774854-4521-4224-82B1-AAB0B883708D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC774854-4521-4224-82B1-AAB0B883708D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC774854-4521-4224-82B1-AAB0B883708D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC774854-4521-4224-82B1-AAB0B883708D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC774854-4521-4224-82B1-AAB0B883708D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8AA936C-4A1E-4167-8C90-F9718EEFA314}
+	EndGlobalSection
+EndGlobal
