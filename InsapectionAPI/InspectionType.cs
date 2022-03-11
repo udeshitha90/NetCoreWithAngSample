@@ -6,6 +6,6 @@ namespace InsapectionAPI
     {
         public int Id { get; set; }
         [StringLength(20)]
-        public int InspectionName { get; set; } = string.Empty;
+        public string InspectionName { get; set; } = string.Empty;
     }
 }
